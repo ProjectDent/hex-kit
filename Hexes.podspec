@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "hex-kit"
+  s.name         = "Hexes"
   s.version      = "1.0"
   s.summary      = "Convert hex triplets into UIColors and CGColors!"
   s.homepage     = "https://github.com/aleclarson/hex-kit"
